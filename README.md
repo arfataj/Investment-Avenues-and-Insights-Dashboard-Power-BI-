@@ -32,6 +32,11 @@ The **Investment Avenues and Insights Dashboard** is a comprehensive project des
 ## 📹 Dashboard Walkthrough  
 For a detailed view of the dashboard’s functionality and insights, here are screenshots:
 
+![Task 7 i](https://github.com/user-attachments/assets/43308c41-343b-41a9-a1eb-6ab9f20bca3a)
+
+![Task 7 ii](https://github.com/user-attachments/assets/cfd58c3a-b561-4a35-a5ae-166a98b7b6e0)
+
+![Task 7 iii](https://github.com/user-attachments/assets/22dd168a-ae8b-4a1f-9421-04b40cc1df25)
 
 
 ---
